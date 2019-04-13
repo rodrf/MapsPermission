@@ -55,12 +55,12 @@ class GPSLocationActivity : AppCompatActivity(), GoogleApiClient.OnConnectionFai
             }
         }
 
-        btnRod?.setOnClickListener{fusedLocationClient.lastLocation?.addOnSuccessListener { lastLoc ->
+        /*btnRod?.setOnClickListener{fusedLocationClient.lastLocation?.addOnSuccessListener { lastLoc ->
             if(!Geocoder.isPresent()){
                 Toast.makeText(this@GPSLocationActivity,"no dis", Toast.LENGTH_LONG).show()
             }
         })
-        }
+        }*/
 
 
 
