@@ -1,0 +1,9 @@
+<resources>
+    <string name="alert_dialog_location_title">Permisio de localizacion</string>
+    <string name="app_name">MapsPermission</string>
+    <string name="alert_dialog_location_message">PAra obtener tus datos de geo, necesitamos apruebes el permiso de gps
+    </string>
+    <string name="alert_diaog_accept">Aceptar</string>
+    <string name="alert_dialog_location_cancel">Cancelar</string>
+    <string name="alert_dialog_message_tryagain">El uso del gps es necesario para esta app</string>
+</resources>
