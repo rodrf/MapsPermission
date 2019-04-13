@@ -23,6 +23,7 @@
         <activity android:name=".MainActivity">
 
         </activity>
+        <service android:name=".FecthAddressIntentService"/>
     </application>
 
 </manifest>
